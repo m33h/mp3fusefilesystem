@@ -1,0 +1,15 @@
+[package]
+
+name = "Mp3FuseFilesystem"
+version = "0.0.1"
+authors = ["mtarsa17@gmail.com"]
+
+
+
+[dependencies]
+
+fuse = "0.2.7"
+time = "*"
+libc = "*"
+id3 = "0.1.10"
+regex = "0.1"
